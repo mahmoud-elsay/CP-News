@@ -1,5 +1,5 @@
-import 'package:cp_news/pages/landing_page.dart';
 import 'package:flutter/material.dart';
+import 'package:cp_news/pages/landing_page.dart';
 
 void main() {
   runApp(const MyApp());
